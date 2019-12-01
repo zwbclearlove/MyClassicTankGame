@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="MyClassicTankGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyClassicTankGame_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MyClassicTankGame.jar">
+        <element id="module-output" name="MyClassicTankGame" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../JLayer1.0.1/jl1.0.1.jar" />
+      <element id="library" level="project" name="jl1.0.1" />
+    </root>
+  </artifact>
+</component>
